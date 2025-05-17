@@ -32,5 +32,5 @@ Includes:
 
 ## 🛠️ Setup Instructions
 
-1.**download the ZIP**  
+1. **download the ZIP**  
 git clone https://github.com/akkiakshay-26/techlearn
